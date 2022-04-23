@@ -1,0 +1,15 @@
+.overview {
+  margin: 40px 0;
+  &__title {
+    font-weight: 800;
+    &-blue {
+      color: #0d68b4;
+    }
+    &-orange {
+      color: #f7941d;
+    }
+    &-success {
+      color: #24a552;
+    }
+  }
+}

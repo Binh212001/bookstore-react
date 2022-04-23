@@ -1,0 +1,15 @@
+.thongke {
+  background-image: url(../img/bg_4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  position: relative;
+  color: $secondary-color;
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+  padding-top: 80px;
+  h1 {
+    margin-bottom: 40px;
+  }
+}

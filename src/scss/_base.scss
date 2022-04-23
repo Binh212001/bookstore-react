@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap");
+
+body,
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+button {
+  border: 10px;
+}
+li {
+  list-style: none;
+}
+ul {
+  padding: 0;
+}
+.wapper {
+  padding-top: 70px;
+}
+.carousel-indicators > button {
+  width: 15px !important;
+  height: 15px !important;
+  border-radius: 50%;
+}
+
+h1 {
+  color: $secondary-color;
+  text-align: center;
+  margin-bottom: 30px;
+}
